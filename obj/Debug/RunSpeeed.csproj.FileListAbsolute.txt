@@ -1,0 +1,9 @@
+C:\Users\lesor\source\repos\RunSpeeed\bin\Debug\RunSpeeed.exe.config
+C:\Users\lesor\source\repos\RunSpeeed\bin\Debug\RunSpeeed.exe
+C:\Users\lesor\source\repos\RunSpeeed\bin\Debug\RunSpeeed.pdb
+C:\Users\lesor\source\repos\RunSpeeed\obj\Debug\RunSpeeed.csprojAssemblyReference.cache
+C:\Users\lesor\source\repos\RunSpeeed\obj\Debug\RunSpeeed.Form1.resources
+C:\Users\lesor\source\repos\RunSpeeed\obj\Debug\RunSpeeed.Properties.Resources.resources
+C:\Users\lesor\source\repos\RunSpeeed\obj\Debug\RunSpeeed.csproj.GenerateResource.cache
+C:\Users\lesor\source\repos\RunSpeeed\obj\Debug\RunSpeeed.exe
+C:\Users\lesor\source\repos\RunSpeeed\obj\Debug\RunSpeeed.pdb
